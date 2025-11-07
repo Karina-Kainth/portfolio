@@ -1,8 +1,8 @@
 # portfolio
 # 👋 Hi, I'm Karina Kainth
 
-I’m an Engineering student at the University of Toronto with a passion for **human-centered design**, **embedded systems**, and **intelligent interfaces**.  
-This portfolio showcases a selection of my projects across **brain-computer interfaces**, **IoT**, **hackathons**, and **engineering design**.
+I’m an Engineering student at the University of Toronto with a passion for **human-centered design**, **embedded systems**, and **UX/UI**. 
+This portfolio showcases a selection of my projects across **brain-computer interfaces**, **IoT**, **hackathons**, **collaborative university projects**and **engineering design**.
 
 ---
 
@@ -11,7 +11,7 @@ This portfolio showcases a selection of my projects across **brain-computer inte
 ### [Focus-Level Monitor](https://medium.com/@karinakainth30/building-a-focus-level-monitor-to-tackle-short-attention-spans-b9ff1b340bff)
 A system that measures real-time attention using EEG data and displays it on a live dashboard.  
 - **Goal:** Address short attention spans through quantifiable focus tracking.  
-- **Tools:** Python, EEG Headset SDK, Web Dashboard (HTML/CSS/JS).  
+- **Tools:** Python, EEG Muse2 Headband, BlueMuse
 - **Highlights:**  
   - Processed EEG data streams to estimate focus intensity.  
   - Designed visualization to help users understand their attention levels over time.  
@@ -19,7 +19,7 @@ A system that measures real-time attention using EEG data and displays it on a l
 ### [Mind-Controlled Speaker](https://medium.com/@karinakainth30/i-paused-played-a-song-on-a-speaker-by-thinking-about-it-7f32bea7ad4f)
 An IoT project where a user can **play or pause music using thought patterns**.  
 - **Goal:** Explore how neural data can control IoT devices.  
-- **Tools:** Arduino, EEG sensor, Python, Bluetooth, Flask API.  
+- **Tools:** Python, EEG Muse2 Headband, BlueMuse, Bluetooth, Speaker 
 - **Highlights:**  
   - Created a real-time communication link between EEG readings and audio playback.  
   - Implemented a simple control algorithm to detect user intent.
@@ -61,15 +61,12 @@ A full recreation of the Google Chrome “No Internet” dinosaur game using Pyg
 
 ## 🧩 Future Plans
 - Upload more embedded and design projects from UofT courses.  
-- Add visual demos and improved documentation for existing builds.
+- Upload more peresonal projects that are in the works.
 
 ---
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/karinakainth](https://linkedin.com/in/karinakainth)  
 - **Medium:** [@karinakainth30](https://medium.com/@karinakainth30)  
-- **Email:** karina.kainth@mail.utoronto.ca  
 
 ---
-
-⭐ *Feel free to explore the folders above for code, visuals, and design documentation for each project.*
