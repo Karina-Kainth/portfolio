@@ -28,7 +28,7 @@ An IoT project where a user can **play or pause music using thought patterns**.
 
 ## 🚀 Hackathon Project
 
-### Moonshot Hackathon — *Preventing Epileptic Episodes Using Acoustic Holograms*(https://medium.com/@karinakainth30/neurative-curing-epilepsy-using-acoustic-holograms-61fc52276e8d)
+### [Moonshot Hackathon — *Preventing Epileptic Episodes Using Acoustic Holograms*](https://medium.com/@karinakainth30/neurative-curing-epilepsy-using-acoustic-holograms-61fc52276e8d)
 - **Challenge:** Propose the “next big thing” for healthcare innovation.  
 - **Concept:** Use **acoustic holography** to prevent epileptic seizures by modulating neural activity non-invasively.  
 - **My Role:** Technical lead and concept modeler — developed system flow and feasibility analysis.  
