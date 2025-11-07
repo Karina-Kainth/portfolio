@@ -2,7 +2,7 @@
 # 👋 Hey, I'm Karina!
 
 I’m an Engineering student at the University of Toronto with a passion for **human-centered design**, **embedded systems**, and **UX/UI**. 
-This portfolio showcases a selection of my projects across **brain-computer interfaces**, **IoT**, **hackathons**, **collaborative university projects**and **engineering design**.
+This portfolio showcases a selection of my projects across **brain-computer interfaces**, **IoT**, **hackathons**, **collaborative university projects** and **engineering design**.
 
 ---
 
@@ -28,7 +28,7 @@ An IoT project where a user can **play or pause music using thought patterns**.
 
 ## 🚀 Hackathon Project
 
-### Moonshot Hackathon — *Preventing Epileptic Episodes Using Acoustic Holograms*
+### Moonshot Hackathon — *Preventing Epileptic Episodes Using Acoustic Holograms*(https://medium.com/@karinakainth30/neurative-curing-epilepsy-using-acoustic-holograms-61fc52276e8d)
 - **Challenge:** Propose the “next big thing” for healthcare innovation.  
 - **Concept:** Use **acoustic holography** to prevent epileptic seizures by modulating neural activity non-invasively.  
 - **My Role:** Technical lead and concept modeler — developed system flow and feasibility analysis.  
