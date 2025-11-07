@@ -1,5 +1,5 @@
 # portfolio
-# 👋 Hi, I'm Karina Kainth
+# 👋 Hey, I'm Karina!
 
 I’m an Engineering student at the University of Toronto with a passion for **human-centered design**, **embedded systems**, and **UX/UI**. 
 This portfolio showcases a selection of my projects across **brain-computer interfaces**, **IoT**, **hackathons**, **collaborative university projects**and **engineering design**.
