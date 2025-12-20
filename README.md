@@ -49,7 +49,7 @@ An IoT project where a user can **play or pause music using thought patterns**.
 
 ---
 
-## 🎮 Coding Project
+## 🎮 Coding Projects
 
 ### No-Internet Game (Pygame Recreation)
 A full recreation of the Google Chrome “No Internet” dinosaur game using Pygame.  
@@ -57,6 +57,65 @@ A full recreation of the Google Chrome “No Internet” dinosaur game using Pyg
 - **Features:** Dynamic obstacle spawning, score tracking, collision detection.  
 - **Goal:** Strengthen object-oriented programming and game loop design skills.
 
+### 🎯 Whack-a-Mole (FPGA-Based Game)
+A hardware-based implementation of the classic **Whack-a-Mole** game built using an FPGA, PS/2 keyboard input, and VGA display output.
+
+---
+
+## 🎯 Project Overview
+This project was completed as part of my **Digital Systems** course and focused on designing a fully functional interactive game at the hardware level.
+
+The game renders randomly appearing moles on a VGA display. Users select difficulty levels and "whack" moles using keyboard inputs. The objective is to reach a score of **10** to win.
+
+---
+
+## ⚙️ Tech Stack
+- **Hardware:** FPGA Development Board  
+- **HDL:** Verilog  
+- **Software Tools:**  
+  - Quartus Prime  
+  - ModelSim  
+- **Peripherals:**  
+  - PS/2 Keyboard  
+  - VGA Display  
+  - 7-Segment Displays  
+
+---
+
+## 🧩 System Design & Components
+The design integrates multiple digital systems concepts, including:
+
+- **Linear Feedback Shift Registers (LFSR)** for random mole generation  
+- **Finite State Machines (FSMs)** for game state control  
+- **Flip-Flops** for state storage  
+- **Half-Second Timers** for mole timing and transitions  
+- **7-Segment Displays** for score output  
+- **VGA Controller** for real-time graphics rendering  
+- **Keyboard Decoder** for user input and level selection  
+
+---
+
+## 🎮 Gameplay Mechanics
+- Users select difficulty levels using the PS/2 keyboard.
+- Moles appear randomly on the VGA screen.
+- Specific keyboard keys correspond to mole positions.
+- Correct hits increase the score.
+- The game ends when the user reaches a score of **10**.
+
+---
+
+## 🧠 Key Learning Outcomes
+- Hardware-software co-design using Verilog  
+- Real-time VGA signal generation  
+- Modular digital system design  
+- Debugging and simulation using ModelSim  
+- Timing control and synchronization in hardware  
+
+---
+
+## 📸 Demo / Visuals
+*(Add VGA screenshots, block diagrams, or waveform simulations here)*  
+![Whack-a-Mole FPGA Demo]("C:\Users\Kino\Downloads\whack-a-mole.png")
 ---
 
 ## 🧩 Future Plans
