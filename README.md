@@ -57,7 +57,7 @@ A full recreation of the Google Chrome “No Internet” dinosaur game using Pyg
 - **Features:** Dynamic obstacle spawning, score tracking, collision detection.  
 - **Goal:** Strengthen object-oriented programming and game loop design skills.
 
-### 🎯 Whack-a-Mole (FPGA-Based Game)
+### Whack-a-Mole (FPGA-Based Game)
 A hardware-based implementation of the classic **Whack-a-Mole** game built using an FPGA, PS/2 keyboard input, and VGA display output.
 
 ### Project Overview
@@ -87,14 +87,14 @@ The design integrates multiple digital systems concepts, including:
 - **VGA Controller** for real-time graphics rendering  
 - **Keyboard Decoder** for user input and level selection  
 
-### 🎮 Gameplay Mechanics
+### Gameplay Mechanics
 - Users select difficulty levels using the PS/2 keyboard.
 - Moles appear randomly on the VGA screen.
 - Specific keyboard keys correspond to mole positions.
 - Correct hits increase the score.
 - The game ends when the user reaches a score of **10**.
 
-### 🧠 Key Learning Outcomes
+### Key Learning Outcomes
 - Hardware-software co-design using Verilog  
 - Real-time VGA signal generation  
 - Modular digital system design  
